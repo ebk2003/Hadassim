@@ -1,0 +1,75 @@
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\bin\Debug\net6.0\Dto.deps.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\bin\Debug\net6.0\Dto.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\bin\Debug\net6.0\Dto.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\obj\Debug\net6.0\Dto.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\obj\Debug\net6.0\refint\Dto.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\obj\Debug\net6.0\Dto.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\obj\Debug\net6.0\ref\Dto.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\bin\Debug\net6.0\Entities.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\bin\Debug\net6.0\Entities.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+C:\Users\user1\Desktop\Project\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Project\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+C:\Users\user1\Desktop\Project\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Project\Dto\obj\Debug\net6.0\Dto.dll
+C:\Users\user1\Desktop\Project\Dto\obj\Debug\net6.0\refint\Dto.dll
+C:\Users\user1\Desktop\Project\Dto\obj\Debug\net6.0\Dto.pdb
+C:\Users\user1\Desktop\Project\Dto\bin\Debug\net6.0\Dto.deps.json
+C:\Users\user1\Desktop\Project\Dto\bin\Debug\net6.0\Dto.dll
+C:\Users\user1\Desktop\Project\Dto\bin\Debug\net6.0\Dto.pdb
+C:\Users\user1\Desktop\Project\Dto\bin\Debug\net6.0\Entities.dll
+C:\Users\user1\Desktop\Project\Dto\bin\Debug\net6.0\Entities.pdb
+C:\Users\user1\Desktop\Project\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+C:\Users\user1\Desktop\Project\Dto\obj\Debug\net6.0\ref\Dto.dll
+E:\שולחן עבודה\Project\Dto\bin\Debug\net6.0\Dto.deps.json
+E:\שולחן עבודה\Project\Dto\bin\Debug\net6.0\Dto.dll
+E:\שולחן עבודה\Project\Dto\bin\Debug\net6.0\Dto.pdb
+E:\שולחן עבודה\Project\Dto\bin\Debug\net6.0\Entities.dll
+E:\שולחן עבודה\Project\Dto\bin\Debug\net6.0\Entities.pdb
+E:\שולחן עבודה\Project\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+E:\שולחן עבודה\Project\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\שולחן עבודה\Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+E:\שולחן עבודה\Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+E:\שולחן עבודה\Project\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+E:\שולחן עבודה\Project\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+E:\שולחן עבודה\Project\Dto\obj\Debug\net6.0\Dto.dll
+E:\שולחן עבודה\Project\Dto\obj\Debug\net6.0\refint\Dto.dll
+E:\שולחן עבודה\Project\Dto\obj\Debug\net6.0\Dto.pdb
+E:\שולחן עבודה\Project\Dto\obj\Debug\net6.0\ref\Dto.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\bin\Debug\net6.0\Dto.deps.json
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\bin\Debug\net6.0\Dto.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\bin\Debug\net6.0\Dto.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\bin\Debug\net6.0\Entities.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\bin\Debug\net6.0\Entities.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\obj\Debug\net6.0\Dto.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\obj\Debug\net6.0\refint\Dto.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\obj\Debug\net6.0\Dto.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dto\obj\Debug\net6.0\ref\Dto.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\bin\Debug\net6.0\Dto.deps.json
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\bin\Debug\net6.0\Dto.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\bin\Debug\net6.0\Dto.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\bin\Debug\net6.0\Entities.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\bin\Debug\net6.0\Entities.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\obj\Debug\net6.0\Dto.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\obj\Debug\net6.0\refint\Dto.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\obj\Debug\net6.0\Dto.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Dto\obj\Debug\net6.0\ref\Dto.dll

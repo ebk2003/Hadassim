@@ -1,0 +1,12 @@
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\bin\Debug\net6.0\Bll.deps.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\bin\Debug\net6.0\Bll.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\bin\Debug\net6.0\Bll.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\obj\Debug\net6.0\Bll.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\obj\Debug\net6.0\refint\Bll.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\obj\Debug\net6.0\Bll.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll\obj\Debug\net6.0\ref\Bll.dll

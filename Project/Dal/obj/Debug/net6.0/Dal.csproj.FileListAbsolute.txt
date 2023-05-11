@@ -1,0 +1,75 @@
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\bin\Debug\net6.0\Dal.deps.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\bin\Debug\net6.0\Dal.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\obj\Debug\net6.0\Dal.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\obj\Debug\net6.0\Dal.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\obj\Debug\net6.0\ref\Dal.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\bin\Debug\net6.0\Entities.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\bin\Debug\net6.0\Entities.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+C:\Users\user1\Desktop\Project\Dal\bin\Debug\net6.0\Dal.deps.json
+C:\Users\user1\Desktop\Project\Dal\bin\Debug\net6.0\Dal.dll
+C:\Users\user1\Desktop\Project\Dal\bin\Debug\net6.0\Dal.pdb
+C:\Users\user1\Desktop\Project\Dal\bin\Debug\net6.0\Entities.dll
+C:\Users\user1\Desktop\Project\Dal\bin\Debug\net6.0\Entities.pdb
+C:\Users\user1\Desktop\Project\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Project\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+C:\Users\user1\Desktop\Project\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Project\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+C:\Users\user1\Desktop\Project\Dal\obj\Debug\net6.0\Dal.dll
+C:\Users\user1\Desktop\Project\Dal\obj\Debug\net6.0\refint\Dal.dll
+C:\Users\user1\Desktop\Project\Dal\obj\Debug\net6.0\Dal.pdb
+C:\Users\user1\Desktop\Project\Dal\obj\Debug\net6.0\ref\Dal.dll
+E:\שולחן עבודה\Project\Dal\bin\Debug\net6.0\Dal.deps.json
+E:\שולחן עבודה\Project\Dal\bin\Debug\net6.0\Dal.dll
+E:\שולחן עבודה\Project\Dal\bin\Debug\net6.0\Dal.pdb
+E:\שולחן עבודה\Project\Dal\bin\Debug\net6.0\Entities.dll
+E:\שולחן עבודה\Project\Dal\bin\Debug\net6.0\Entities.pdb
+E:\שולחן עבודה\Project\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+E:\שולחן עבודה\Project\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\שולחן עבודה\Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+E:\שולחן עבודה\Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+E:\שולחן עבודה\Project\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+E:\שולחן עבודה\Project\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+E:\שולחן עבודה\Project\Dal\obj\Debug\net6.0\Dal.dll
+E:\שולחן עבודה\Project\Dal\obj\Debug\net6.0\refint\Dal.dll
+E:\שולחן עבודה\Project\Dal\obj\Debug\net6.0\Dal.pdb
+E:\שולחן עבודה\Project\Dal\obj\Debug\net6.0\ref\Dal.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\bin\Debug\net6.0\Dal.deps.json
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\bin\Debug\net6.0\Dal.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\bin\Debug\net6.0\Dal.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\bin\Debug\net6.0\Entities.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\bin\Debug\net6.0\Entities.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\obj\Debug\net6.0\Dal.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\obj\Debug\net6.0\refint\Dal.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\obj\Debug\net6.0\Dal.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Dal\obj\Debug\net6.0\ref\Dal.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\bin\Debug\net6.0\Dal.deps.json
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\bin\Debug\net6.0\Dal.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\bin\Debug\net6.0\Dal.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\bin\Debug\net6.0\Entities.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\bin\Debug\net6.0\Entities.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\obj\Debug\net6.0\Dal.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\obj\Debug\net6.0\refint\Dal.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\obj\Debug\net6.0\Dal.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Dal\obj\Debug\net6.0\ref\Dal.dll

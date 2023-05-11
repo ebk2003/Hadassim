@@ -1,0 +1,625 @@
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\appsettings.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Project.exe
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Project.deps.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Project.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Project.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\refint\Project.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\obj\Debug\net6.0\ref\Project.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Humanizer.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Bll.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Dal.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Dto.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Entities.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Bll.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Dto.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Project\bin\Debug\net6.0\Entities.pdb
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.dll
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\refint\Project.dll
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.pdb
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Project.exe
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Project.deps.json
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Project.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Project.pdb
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Bll.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Dal.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Dto.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Entities.dll
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Bll.pdb
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Dto.pdb
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Dal.pdb
+C:\Users\user1\Desktop\Project\Project\bin\Debug\net6.0\Entities.pdb
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+C:\Users\user1\Desktop\Project\Project\obj\Debug\net6.0\ref\Project.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\appsettings.json
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Project.exe
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Project.deps.json
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Project.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Project.pdb
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Humanizer.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Bll.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Dal.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Dto.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Entities.dll
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Bll.pdb
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Dto.pdb
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Dal.pdb
+E:\שולחן עבודה\Project\Project\bin\Debug\net6.0\Entities.pdb
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.dll
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\refint\Project.dll
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.pdb
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+E:\שולחן עבודה\Project\Project\obj\Debug\net6.0\ref\Project.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\refint\Project.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\appsettings.json
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Project.exe
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Project.deps.json
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Project.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Project.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Humanizer.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Bll.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Dal.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Dto.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Entities.dll
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Bll.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Dto.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Dal.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\bin\Debug\net6.0\Entities.pdb
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+E:\שולחן עבודה\‏‏הדסים - עותק\Project\Project\obj\Debug\net6.0\ref\Project.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\appsettings.json
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Project.exe
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Project.deps.json
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Project.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Project.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Humanizer.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Bll.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Dal.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Dto.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Entities.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Bll.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Dto.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Dal.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Project\bin\Debug\net6.0\Entities.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\refint\Project.dll
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.pdb
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+E:\שולחן עבודה\הדסים סופיי\Project\Project\obj\Debug\net6.0\ref\Project.dll
