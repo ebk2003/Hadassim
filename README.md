@@ -1,30 +1,27 @@
 # Hadassim
-# Health Fund Simulation - ASP.NET Core Web Application
+# Hmo Simulation - ASP.NET Core Web Application
 
 This is a C# project developed in ASP.NET Core Web Application using the 4-layer Entity Framework method and Swagger for API documentation. The project simulates a health fund with two departments: MEMBER and COVID. 
 
 ## Prerequisites
 
-- Visual Studio 2019 or later
-- .NET Core 3.1 or later
+- Visual Studio 2022
+- .NET Core
 - SQL Server
 
 ## Getting Started
 
 1. Clone the repository to your local machine.
-2. Open the solution file HealthFundSimulation.sln
+2. 
+3. Open the solution file Project
  in Visual Studio.
+ 
 3. Configure the database connection string in the appsettings.json
  file with your SQL Server details.
+ 
 4. Open the Package Manager Console and run the following command to create the database:
-
-   
-
    Update-Database
    
-
-
-
 5. Build and run the project.
 
 ## Project Structure
