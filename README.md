@@ -1,5 +1,5 @@
 # Hadassim
-# Hmo Simulation - ASP.NET Core Web Application
+# Hmo Simulation - ASP.NET Core Web API
 
 This is a C# project developed in ASP.NET Core Web Application using the 4-layer Entity Framework method and Swagger for API documentation. The project simulates a health fund with two departments: MEMBER and COVID. 
 
